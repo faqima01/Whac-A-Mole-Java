@@ -1,0 +1,10 @@
+Massi; 25; 
+Rachel; 50; 
+Brevin; 75; 
+Mike; 10; 
+Bob; 5; 
+Mike; 25; 
+MassiF; 45; 
+MassiF; 120; 
+Trina M; 70; 
+Trina M; 160; 
